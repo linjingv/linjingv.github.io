@@ -1,0 +1,56 @@
+---
+---
+<html>
+
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <style>
+            .demo{
+                border: 1px solid #Black ;
+                
+                text-align: left;
+                float: center;
+            }
+            .icon{
+                
+                background: url(img/tb01.png) no-repeat;
+                margin: auto;
+            }
+
+            .demo:hover{
+                border: 1px solid Green  ;
+                cursor: pointer;
+            }
+
+            .demo:hover .icon{
+                background: url(img/tb02.png) no-repeat;
+            }
+
+            .demo:hover .font{
+                color: Green  ;
+            }
+
+        </style>
+    </head>
+    
+	<body>        
+        <ul class="list pa0">
+			{% for post in site.posts %}											
+			<li class="mv2">
+				<div class="demo">
+					<div class="icon">
+					</div>
+					<div class="font">
+						<a href="{{ site.url }}{{ post.url }}" class="db pv1 link blue hover-mid-gray">
+							<time class="fr silver ttu">{{ post.date | date: "%Y-%m-%d" }} </time>
+							{{ post.title }}
+						</a>
+					</div>
+				</div>
+			</li>
+			{% endfor %}									
+		</ul>          
+    </body>
+	
+</html>
