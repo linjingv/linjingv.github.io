@@ -16,7 +16,7 @@ title: About me
 
 - 个人主页：[旭霁](https://moistlin.cn)
 
-- GitHub：[rengui520](https://github.com/linjingv)
+- GitHub：[linjingv](https://github.com/linjingv)
 
 - 微信公众号：「韧桂」
 
