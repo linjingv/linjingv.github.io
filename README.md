@@ -5,9 +5,9 @@
 #### 联系我
 - 个人主页：[旭霁](https://moistlin.cn)
 
-* GitHub：[rengui520](https://github.com/rengui520)
+* GitHub：[rengui520](https://github.com/linjingv)
 
 * 微信公众号：「韧桂」
 
 <div  align="center">
-<img src="https://rengui520.github.io/images/wechart.jpg" width = "200" height = "200"/>
+<img src="https://linjingv.github.io/images/wechart.jpg" width = "200" height = "200"/>

@@ -16,10 +16,10 @@ links:
     url:          /about
     external:     False
   - name:         Email
-    url:          mailto:xuujii520@gmail.com
+    url:          mailto:linjingv@gmail.com
     external:     True
   - name:         GitHub
-    url:          https://github.com/rengui520
+    url:          https://github.com/linjingv
     external:     True
   - name:         Tag
     url:          /tag
